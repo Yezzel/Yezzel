@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yezzel
-- 👀 I’m interested in ...Learning how to programm with Python
-- 🌱 I’m currently learning ...Python Programming language
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...Learning how to programm with Javascript
+- 🌱 I’m currently learning ...Javascript Programming language
+- 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ...kyeibenjamin03@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
